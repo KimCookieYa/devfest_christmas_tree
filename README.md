@@ -4,8 +4,8 @@ DevFest Cloud Busan 2023 제출 과제
 
 ## 결과물
 
-![](./docs/tree.png)
+![png](./docs/tree.png)
 
-## 동영상
+## 과정
 
-![](./docs/devfest_christmas_tree_김민석.mp4)
+![gif](./docs/devfest_christmas_tree_김민석.gif)
